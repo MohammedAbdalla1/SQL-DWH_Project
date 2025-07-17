@@ -53,6 +53,7 @@ These insights enable the organization to make informed, data-driven decisions.
 ##Project Architecture
 
 <img width="1612" height="711" alt="DWH_Architecture drawio" src="https://github.com/user-attachments/assets/fdff5b9a-cf02-436b-9e71-9535dc42eb63" />
+
 ---
 
 ## License
